@@ -1,0 +1,5 @@
+cv2
+sys
+numpy
+os
+pip install opencv-contrib-python
